@@ -1,0 +1,19 @@
+{
+  "name": "cli-dye",
+  "version": "0.1.0",
+  "description": "Dye and color logs in the node cli",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint --fix index.js"
+  },
+  "keywords": [
+    "ansi",
+    "terminal",
+    "colors",
+    "cli",
+    "console",
+    "node"
+  ],
+  "author": "Jake Avery",
+  "license": "MIT"
+}
