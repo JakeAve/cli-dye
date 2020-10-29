@@ -1,6 +1,6 @@
 {
   "name": "cli-dye",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dye and color logs in the node cli",
   "main": "index.js",
   "scripts": {
