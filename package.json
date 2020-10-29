@@ -2,6 +2,11 @@
   "name": "cli-dye",
   "version": "0.1.1",
   "description": "Dye and color logs in the node cli",
+  "homepage": "https://github.com/JakeAve/cli-dye",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JakeAve/cli-dye.git"
+  },
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --fix index.js"
